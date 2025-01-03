@@ -38,24 +38,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque  
-
-### 1. **Sistema de Gerenciamento de Usuários**  
-- **Descrição**: API RESTful com CRUD completo, autenticação JWT e integração com React para frontend.  
-- **Tecnologias**: Spring Boot, ReactJS, MySQL, Docker, Swagger.  
-📂 [Repositório do Projeto](https://github.com/seu-usuario/gerenciamento-usuarios)
-
-### 2. **Monitoramento de Aplicações com Grafana e Prometheus**  
-- **Descrição**: Sistema de monitoramento com alertas configurados para aplicações baseadas em Spring Boot.  
-- **Tecnologias**: Grafana, Prometheus, Kubernetes.  
-📂 [Repositório do Projeto](https://github.com/seu-usuario/monitoramento-aplicacoes)
-
-### 3. **Aplicativo Mobile de Tarefas**  
-- **Descrição**: Aplicativo para lista de tarefas com React Native e sincronização com backend Java.  
-- **Tecnologias**: React Native, Java Spring, MongoDB.  
-📂 [Repositório do Projeto](https://github.com/seu-usuario/tarefas-app)
-
----
 
 ## 📋 Tecnologias  
 
