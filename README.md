@@ -71,9 +71,9 @@
 ---
 
 ## 📫 Contato  
-📧 **E-mail**: [meu-email@email.com](mailto:meu-email@email.com)  
-🌐 **Portfólio**: [meusite.com](https://meusite.com)  
-💼 **LinkedIn**: [Seu Nome](https://www.linkedin.com/in/seu-usuario/)  
+📧 **E-mail**: [meu-email@email.com](ernanisan_hv.metals@hotmail.com)  
+🌐 **Portfólio**: [meusite.com](https://www.linkedin.com/in/ernanib/)  
+💼 **LinkedIn**: [Ernani](https://www.linkedin.com/in/ernanib/)  
 
 ---
 
