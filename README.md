@@ -1,7 +1,7 @@
 # Bem-vindo ao meu Perfil GitHub! 👋  
 
 ## Sobre Mim  
-🎓 **Desenvolvedor Backend Junior** com foco em **backend** e desenvolvimento de **software** utilizando **Java** e **Spring Boot**.  
+🎓 **Desenvolvedor Backend ** com foco em **backend** e desenvolvimento de **software** utilizando **Java** e **Spring Boot**.  
 💡 Tenho paixão por criar Rest APIs, com forte base em Programação Orientada a Objetos (POO) e princípios de **SOLID** e **Clean Code**.  
 🌐 Apesar de meu foco principal ser o backend, conheço e aprecio as ferramentas de frontend, como **ReactJS** e **React Native**, valorizando a sinergia entre as duas áreas.  
 
